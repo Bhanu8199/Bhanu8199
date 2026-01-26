@@ -1,14 +1,3 @@
-## Hi there 👋
-
-<!--
-**Bhanu8199/Bhanu8199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning Python Data Science
-- 📫 To reach me: https://bvm-portfolio.vercel.app/
-
 # 💫 About Me:
 I am Bhanu Vardhan Medapalli, an enthusiastic and driven developer with a strong foundation in computer science and a particular interest in data science and artificial intelligence. My technical toolkit spans Python programming, C language, MySQL, MS Office, and front-end technologies including HTML, CSS, JavaScript, and React.js.<br><br>With hands-on experience in both software and web development, I thrive on solving problems and creating innovative solutions. My proficiency in Python, combined with my curiosity for AI, motivates me to explore the potential of cutting-edge libraries and frameworks to build impactful, data-driven applications.<br><br>I am passionate about continuous learning and committed to staying at the forefront of technological advancements. Whether working independently or as part of a dynamic team, I pursue challenges that foster growth, creativity, and meaningful contributions to the field of technology.<br><br>Eager to specialize further in Python-based AI development, I look forward to leveraging my skills and experience to drive innovation and deliver real-world value.
 
