@@ -1,5 +1,14 @@
 # 💫 About Me:
-I am Bhanu Vardhan Medapalli, an enthusiastic and driven developer with a strong foundation in computer science and a particular interest in data science and artificial intelligence. My technical toolkit spans Python programming, C language, MySQL, MS Office, and front-end technologies including HTML, CSS, JavaScript, and React.js.<br><br>With hands-on experience in both software and web development, I thrive on solving problems and creating innovative solutions. My proficiency in Python, combined with my curiosity for AI, motivates me to explore the potential of cutting-edge libraries and frameworks to build impactful, data-driven applications.<br><br>I am passionate about continuous learning and committed to staying at the forefront of technological advancements. Whether working independently or as part of a dynamic team, I pursue challenges that foster growth, creativity, and meaningful contributions to the field of technology.<br><br>Eager to specialize further in Python-based AI development, I look forward to leveraging my skills and experience to drive innovation and deliver real-world value.
+I am Bhanu Vardhan Medapalli, an enthusiastic and driven Software Engineer with a strong foundation in Computer Science and Artificial Intelligence. I have hands-on experience in Python, AI/ML, Generative AI, React.js, JavaScript, and full-stack web development, with a strong interest in building intelligent and scalable software solutions.
+
+My technical expertise includes Python, TensorFlow, CNN, YOLOv8, OpenCV, NumPy, Pandas, Streamlit, React.js, Node.js, Express.js, RESTful APIs, JWT, MySQL, PostgreSQL, and MongoDB. I have worked on machine learning applications, responsive web platforms, and full-stack projects, applying these technologies to solve practical problems and develop data-driven solutions.
+
+My project experience includes developing a CNN-based brain tumor diagnosis platform using MRI scans, a full-stack team task management application, a restaurant management web application, and a Python-based billing system. These projects have strengthened my skills in AI/ML development, frontend and backend technologies, database management, and software development.
+
+I am passionate about Artificial Intelligence, Generative AI, and Python-based development, and I continuously explore new tools, libraries, and frameworks to expand my technical capabilities. I enjoy solving challenging problems, learning emerging technologies, and transforming ideas into practical applications that create real-world value.
+
+I am eager to grow as an AI/ML and Python-focused Software Engineer while contributing to innovative projects, collaborating with dynamic teams, and developing reliable, scalable, and impactful technology solutions.
+
 
 ## 📫 To Reach Me: 
 https://bvm-portfolio.vercel.app/
