@@ -1,13 +1,79 @@
-# 💫 About Me:
-I am Bhanu Vardhan Medapalli, an enthusiastic and driven Software Engineer with a strong foundation in Computer Science and Artificial Intelligence. I have hands-on experience in Python, AI/ML, Generative AI, React.js, JavaScript, and full-stack web development, with a strong interest in building intelligent and scalable software solutions.
+# 👋 About Me
 
-My technical expertise includes Python, TensorFlow, CNN, YOLOv8, OpenCV, NumPy, Pandas, Streamlit, React.js, Node.js, Express.js, RESTful APIs, JWT, MySQL, PostgreSQL, and MongoDB. I have worked on machine learning applications, responsive web platforms, and full-stack projects, applying these technologies to solve practical problems and develop data-driven solutions.
+Hi, I'm **Bhanu Vardhan Medapalli**, a Computer Science and Artificial Intelligence graduate passionate about building scalable software applications and intelligent AI-powered solutions.
 
-My project experience includes developing a CNN-based brain tumor diagnosis platform using MRI scans, a full-stack team task management application, a restaurant management web application, and a Python-based billing system. These projects have strengthened my skills in AI/ML development, frontend and backend technologies, database management, and software development.
+I'm a developer with hands-on experience in **Full Stack Development, Python Programming, Artificial Intelligence, Machine Learning, and Generative AI**. I enjoy solving real-world problems through technology and continuously exploring new tools and frameworks.
 
-I am passionate about Artificial Intelligence, Generative AI, and Python-based development, and I continuously explore new tools, libraries, and frameworks to expand my technical capabilities. I enjoy solving challenging problems, learning emerging technologies, and transforming ideas into practical applications that create real-world value.
+### 💻 Technical Skills
 
-I am eager to grow as an AI/ML and Python-focused Software Engineer while contributing to innovative projects, collaborating with dynamic teams, and developing reliable, scalable, and impactful technology solutions.
+- **Programming Languages:** Python, JavaScript, TypeScript
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+- **AI/ML:** TensorFlow, CNN, YOLOv8, OpenCV, Generative AI
+- **Data Science:** NumPy, Pandas, Data Analysis
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Platforms:** Git, GitHub, Postman, Streamlit
+
+### 🤖 AI Tools & Productivity
+
+- **AI Assistants:** ChatGPT, Claude, Google Gemini, Meta AI
+- **AI Coding Assistants:** GitHub Copilot
+- **AI Development:** Generative AI, Prompt Engineering, LLM Integration, AI-assisted Development
+
+I use AI-powered tools to improve coding productivity, explore technical solutions, debug code, generate ideas, assist with documentation, and accelerate application development.
+
+### 🚀 Featured Projects
+
+**1. NeuroVision AI – Brain Tumor Diagnosis System**
+- Developed an AI-powered brain tumor classification application using MRI scans.
+- Implemented CNN-based classification using TensorFlow/Keras.
+- Integrated OpenCV and Grad-CAM for image processing and explainability.
+- Built an interactive interface using Streamlit.
+
+**2. Full Stack Team Task Management Application**
+- Developed a web-based task management platform.
+- Worked on frontend components, backend integration, and database management.
+- Implemented application functionality for managing tasks and workflows.
+
+**3. Restaurant Management Web Application**
+- Developed a web application to support restaurant management operations.
+- Worked on responsive UI development and application functionality.
+
+**4. Python Chatbot Application**
+- Explored Python-based chatbot development and conversational functionality.
+
+### 💼 Internship Experience
+
+- **Frontend Developer Intern – Varcode EdTech Pvt. Ltd.**
+  - Developed a responsive HTML Tutorial Website using React.js, Vite, and Tailwind CSS.
+
+- **AI & Green Skills Intern – Edunet Foundation**
+  - Completed the Skills4Future Advanced Internship in Artificial Intelligence and Green Skills.
+
+- **Python Programming Intern – Main Flow Services and Technologies**
+  - Completed an 8-week Python Programming internship with hands-on learning.
+
+- **SAP Educate to Employ Program – SAP & Edunet Foundation**
+  - Completed 369+ hours of training covering SAP ABAP, SAP BTP, Software Engineering, Agile, and Git/GitHub.
+
+### 🎯 Current Interests
+
+- Full Stack Software Development
+- Python Backend Development
+- Artificial Intelligence & Machine Learning
+- Generative AI & AI Agents
+- Data Science & Data Analytics
+- Cloud Computing and Scalable Applications
+
+### 🌱 My Career Goal
+
+I'm focused on growing as a **Full Stack Software Engineer and AI Developer**, building practical applications, strengthening my problem-solving abilities, and contributing to innovative technology projects.
+
+I believe in continuous learning, hands-on development, and turning ideas into meaningful solutions.
+
+### 🤝 Let's Connect
+
+I'm always interested in connecting with developers, learning new technologies, collaborating on projects, and exploring exciting opportunities in software development and AI.
 
 
 ## 📫 To Reach Me: 
